@@ -9,6 +9,7 @@
 ## References and Resources
 
 1. https://stackoverflow.com/a/47931093
+2. https://www.geeksforgeeks.org/how-to-handle-onclick-listener-using-when-keyword-in-android/
 
 ## Verbal Collaboration
 
